@@ -1,0 +1,27 @@
+=======================================================
+RELATÓRIO DE ANÁLISE DE TRÁFEGO
+=======================================================
+
+Vídeo analisado: /content/drive/MyDrive/Veiculo/Reduzido.mp4
+Duração do vídeo: 4.7 s (0.08 min)
+FPS: 30.0 | Frames totais: 141
+
+-- CONTAGEM POR CLASSE --
+  carro: 60
+  moto: 11
+  ônibus: 1
+  caminhão: 6
+  TOTAL GERAL: 78 veículos
+
+-- MÉTRICAS DE FLUXO --
+  Fluxo médio: 995.74 veículos/minuto
+  Minuto de maior movimento: minuto 0 (78 veículos)
+  Classe mais frequente: carro
+  Permanência média em cena: 2.55 s
+
+-- ARQUIVOS GERADOS --
+  Vídeo anotado: /content/drive/MyDrive/transito_contado.mp4
+  CSV com histórico: /content/drive/MyDrive/historico_veiculos.csv
+  Gráfico de barras: /content/drive/MyDrive/grafico_contagem_por_classe.png
+  Gráfico de pizza: /content/drive/MyDrive/grafico_proporcao_classes.png
+  Gráfico de fluxo: /content/drive/MyDrive/grafico_fluxo_por_minuto.png
